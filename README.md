@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Steve Gran's Github
+
+<p>🐘 <a href="https://hachyderm.io/@matthewskelton" rel="me">@sgran<wbr/>@hachyderm.io</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/sgran/" rel="me">sgran</a></p>
+<p>🐦 <a href="https://twitter.com/sgran0907" rel="me">@sgran0907</a></p>
+
 <!--
 **sgran/sgran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
