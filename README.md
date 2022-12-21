@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Steve Gran's Github
 
 <p>🐘 <a href="https://hachyderm.io/@matthewskelton" rel="me">@sgran<wbr/>@hachyderm.io</a></p>
